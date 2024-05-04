@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abhir Dongare
+# Hi there! 👋
 
 Welcome to my GitHub profile! 🌟
 
